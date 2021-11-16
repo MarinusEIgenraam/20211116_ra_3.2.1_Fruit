@@ -25,6 +25,7 @@ de pagina in de browser te bekijken. Begin met het maken van wijzigingen in `src
 elke keer als je een bestand opslaat, zullen de wijzigingen te zien zijn op de webpagina.
 
 
+
 ## Tussenstappen bekijken
 De tutorial werkt in stapjes. Na elke stap kun je de bijbehorende branch bekijken om te zien hoe de 
 applicatie er op dat moment uit zou moeten zien:
